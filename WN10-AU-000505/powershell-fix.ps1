@@ -5,7 +5,7 @@
 .NOTES
     Author          : Yancarlos Espinosa
     LinkedIn        : https://www.linkedin.com/in/yancarlos-espinosa/
-    GitHub          : https://github.com/yeg003/STIG-remediation-scripts/blob/main/WN10-CC-000185%20/powershell-fix.ps1
+    GitHub          : https://github.com/yeg003/STIG-remediation-scripts/blob/main/WN10-AU-000505/powershell-fix.ps1
     Date Created    : 2025-05-28
     Last Modified   : 2025-05-28
     Version         : 1.0
